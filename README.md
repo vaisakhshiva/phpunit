@@ -9,7 +9,7 @@ PHPUnit is a programmer-oriented testing framework for PHP. It is an instance of
 ## Notice
 
 
-This isnt the official version. Please use official version 
+This isn't the official version. Please use official version 
 
 ## Contribute
 
