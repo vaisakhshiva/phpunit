@@ -1,6 +1,6 @@
 {
-    "name": "phpunit/phpunit",
-    "description": "The PHP Unit Testing framework.",
+    "name": "vaisakhshiva/phpunit",
+    "description": "The PHP Unit Testing framework. Support for older PHPUnit Versions Bugs",
     "type": "library",
     "keywords": [
         "phpunit",
