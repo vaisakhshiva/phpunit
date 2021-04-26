@@ -77,10 +77,5 @@
             "src/Framework/Assert/Functions.php",
             "tests/_files/CoveredFunction.php"
         ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "5.7.x-dev"
-        }
     }
 }
