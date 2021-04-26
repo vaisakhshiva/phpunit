@@ -1,5 +1,5 @@
 {
-    "name": "phpunit/phpunit",
+    "name": "vaisakhshiva/phpunit",
     "description": "The PHP Unit Testing framework.",
     "type": "library",
     "keywords": [
@@ -24,7 +24,7 @@
         "php": "^5.6 || ^7.0",
         "phpunit/php-file-iterator": "~1.4",
         "phpunit/php-text-template": "~1.2",
-        "phpunit/php-code-coverage": "^4.0.4",
+        "vaisakhshiva/php-code-coverage": "~4.0.8-fix",
         "phpunit/php-timer": "^1.0.6",
         "phpunit/phpunit-mock-objects": "^3.2",
         "phpspec/prophecy": "^1.6.2",
