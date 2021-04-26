@@ -10,10 +10,6 @@ PHPUnit is a programmer-oriented testing framework for PHP. It is an instance of
 
 
 This isnt the official version. Please use official version 
-We distribute a [PHP Archive (PHAR)](https://php.net/phar) that has all required (as well as some optional) dependencies of PHPUnit bundled in a single file:
-
-
-Alternatively, you may use [Composer](https://getcomposer.org/) to download and install PHPUnit as well as its dependencies. Please refer to the [documentation](https://phpunit.de/documentation.html) for details on how to do this.
 
 ## Contribute
 
